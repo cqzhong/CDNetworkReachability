@@ -1,0 +1,6 @@
+framework module Pods_CDNetworkReachability_Tests {
+  umbrella header "Pods-CDNetworkReachability_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

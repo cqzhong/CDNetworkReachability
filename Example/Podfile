@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CDNetworkReachability_Example' do
+  pod 'CDNetworkReachability', :path => '../'
+
+  target 'CDNetworkReachability_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

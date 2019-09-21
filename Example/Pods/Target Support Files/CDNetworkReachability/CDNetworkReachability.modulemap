@@ -1,0 +1,6 @@
+framework module CDNetworkReachability {
+  umbrella header "CDNetworkReachability-umbrella.h"
+
+  export *
+  module * { export * }
+}

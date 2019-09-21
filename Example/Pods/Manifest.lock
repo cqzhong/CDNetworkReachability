@@ -1,0 +1,16 @@
+PODS:
+  - CDNetworkReachability (0.1.0)
+
+DEPENDENCIES:
+  - CDNetworkReachability (from `../`)
+
+EXTERNAL SOURCES:
+  CDNetworkReachability:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CDNetworkReachability: ee5a4f63d2c73f03fd5dc5abd226439ef1c46cec
+
+PODFILE CHECKSUM: c49d44515e8ea287cf51b63dba1150922abbfb71
+
+COCOAPODS: 1.8.0.beta.1
