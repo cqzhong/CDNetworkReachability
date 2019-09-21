@@ -1,5 +1,5 @@
 PODS:
-  - CDNetworkReachability (0.1.0)
+  - CDNetworkReachability (1.0.1)
 
 DEPENDENCIES:
   - CDNetworkReachability (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CDNetworkReachability: ee5a4f63d2c73f03fd5dc5abd226439ef1c46cec
+  CDNetworkReachability: d6705126b1fd50327369b7a8b326c47f34edff55
 
 PODFILE CHECKSUM: c49d44515e8ea287cf51b63dba1150922abbfb71
 

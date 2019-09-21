@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CDNetworkReachability.h"
 
 FOUNDATION_EXPORT double CDNetworkReachabilityVersionNumber;
 FOUNDATION_EXPORT const unsigned char CDNetworkReachabilityVersionString[];
